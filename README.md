@@ -3,7 +3,7 @@
 > **"AR 환경에서 구현한 몰입형 3D FPS 게임"**
 
 <p align="center">
-  <img src="Images/1.jpg" width="30%" alt="로비 화면">
+  <img src="Images/11.jpg" width="30%" alt="시작 화면">
   <img src="Images/2.jpg" width="30%" alt="가방 화면">
   <img src="Images/3.jpg" width="30%" alt="상점 화면">
 </p>
