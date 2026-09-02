@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="Images/11.png" width="50%" alt="시작 화면">
-  <img src="Images/게임 플레이 2.jpg" width="30%" alt="게임 플레이 2">
+  <img src="Images/게임 플레이 2.jpg" width="50%" alt="게임 플레이 2">
 </p>
 
 <p align="center">
