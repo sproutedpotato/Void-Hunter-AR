@@ -4,11 +4,11 @@
 
 <p align="center">
   <img src="Images/11.png" width="50%" alt="시작 화면">
-  <img src="Images/2.jpg" width="30%" alt="게임 플레이 2">
+  <img src="Images/게임 플레이 2.jpg" width="30%" alt="게임 플레이 2">
 </p>
 
 <p align="center">
-  <img src="Images/11.gif" width="80%" alt="게임 플레이 1">
+  <img src="Images/게임 플레이 1.gif" width="80%" alt="게임 플레이 1">
 </p>
 
 ## 📌 프로젝트 개요
