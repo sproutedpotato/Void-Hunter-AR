@@ -4,12 +4,11 @@
 
 <p align="center">
   <img src="Images/11.png" width="50%" alt="시작 화면">
-  <img src="Images/2.jpg" width="30%" alt="가방 화면">
-  <img src="Images/3.jpg" width="30%" alt="상점 화면">
+  <img src="Images/2.jpg" width="30%" alt="플레이 화면 2">
 </p>
 
 <p align="center">
-  <img src="Images/11.gif" width="80%" alt="이용 화면">
+  <img src="Images/11.gif" width="80%" alt="플레이 화면 1">
 </p>
 
 ## 📌 프로젝트 개요
